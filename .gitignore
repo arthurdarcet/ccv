@@ -28,5 +28,6 @@ bin/*.diff
 bin/data/*
 data/*
 tool/*
-config.mk
+#config.mk
 build
+*.dylib
